@@ -1,16 +1,83 @@
-## Hi there 👋
+<div style="width: 100%; overflow: hidden;">
+   
+</div>
 
-<!--
-**JSuhas123/JSuhas123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+# Hey there! I'm <a href = "www.linkedin.com/in/j-suhas-">J Suhas</a>. Welcome to my GitHub👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Second year CSE student from [The Oxford College of Engineering](http://www.theoxford.edu/).
+
+
+- Frontend Development
+- Backend Development
+- Artificial Intelligence
+- Data Structure and Algorithms: Java
+- Database Technologies
+
+  
+## Languages, Tools and Technologies 🚀 
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,threejs" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,nextjs&theme=dark"></td>
+</tr>
+ 
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=postman,sass,tailwind&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,netlify,cloudflare&theme=dark"></td>
+</tr>
+
+</table>
+
+<strong>
+Soft skills
+</strong>
+
+
+
+
+- Leadership
+- Public speaking
+- Problem solving
+- Interpersonal skills
+- Teamwork
+- Communication
+
+
+## Collaboration 🤝
+
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn or X.
+<hr>
+### Star 🌟 some of my repos if you like them!
+<hr>
+</div>
+
+## Contact 📫 
+
+To get in touch with me, please send an email to [suhasjanardhan10@gmail.com]. I'll do my best to respond promptly.
+
+## Find Me on ✨LinkedIn✨
+
+You can find my LinkedIn profile here: [www.linkedin.com/in/j-suhas-]. 
+
+Feel free to explore my repositories and contributions!
+
+
