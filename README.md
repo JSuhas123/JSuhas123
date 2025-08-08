@@ -6,7 +6,7 @@
 
 # Hey there! I'm <a href = "www.linkedin.com/in/j-suhas-">J Suhas</a>. Welcome to my GitHub👋
 
-Pre-Final year CSE student from [The Oxford College of Engineering](http://www.theoxford.edu/).
+Final year CSE student from [The Oxford College of Engineering](http://www.theoxford.edu/).
 
 
 - Frontend Development
@@ -47,37 +47,57 @@ Pre-Final year CSE student from [The Oxford College of Engineering](http://www.t
 
 </table>
 
-<strong>
-Soft skills
-</strong>
+
+
+## 🧠 Soft Skills
+
+- Leadership  
+- Public Speaking  
+- Problem Solving  
+- Interpersonal Skills  
+- Teamwork  
+- Communication  
 
 
 
+## 🤝 Collaboration
 
-- Leadership
-- Public speaking
-- Problem solving
-- Interpersonal skills
-- Teamwork
-- Communication
+I’m always open to working on exciting projects related to:
+- Full Stack Development
+- Artificial Intelligence & ML
+- Open Source Contributions
+- Dev Tools & Productivity Systems
+
+If you have a cool idea or project in mind, let’s connect!  
+📬 Reach out via **Email**, **LinkedIn**, or **X (formerly Twitter)** — I’d love to collaborate!
 
 
-## Collaboration 🤝
+## 🌟 Support My Work
 
-I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn or X.
-<hr>
-### Star 🌟 some of my repos if you like them!
-<hr>
-</div>
+If you like any of my repositories or find them helpful, consider giving them a ⭐.  
+It motivates me to keep building and sharing more awesome projects!
 
-## Contact 📫 
 
-To get in touch with me, please send an email to [suhasjanardhan10@gmail.com]. I'll do my best to respond promptly.
 
-## Find Me on ✨LinkedIn✨
+## 📫 Contact Me
 
-You can find my LinkedIn profile here: [www.linkedin.com/in/j-suhas-]. 
+- 📧 Email: [suhasjanardhan10@gmail.com](mailto:suhasjanardhan10@gmail.com)  
+- 💼 LinkedIn: [www.linkedin.com/in/j-suhas-](https://www.linkedin.com/in/j-suhas-)  
+- 🌐 Portfolio: [portfoliosuhas.vercel.app](https://portfoliosuhas.vercel.app/)  
 
-Feel free to explore my repositories and contributions!
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JSuhas123&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSuhas123&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
+</p>
+
+
+## 🙌 Thanks for visiting!
+
+Feel free to explore my repositories and contributions.  
+Let’s build something extraordinary together! 🚀
 
 
