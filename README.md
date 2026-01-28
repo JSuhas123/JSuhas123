@@ -45,6 +45,19 @@ Final year CSE student from [The Oxford College of Engineering](http://www.theox
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,netlify,cloudflare&theme=dark"></td>
 </tr>
 
+<tr>
+	<td><strong>AI / ML Tools</strong></td>
+	<td>
+		<img height=40 src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,sklearn,keras&theme=dark">
+	</td>
+</tr>
+
+<tr>
+	<td><strong>Design Tools</strong></td>
+	<td>
+		<img height=40 src="https://skillicons.dev/icons?i=figma,xd,photoshop&theme=dark">
+	</td>
+</tr>
 </table>
 
 
