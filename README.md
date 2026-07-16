@@ -6,7 +6,7 @@
 
 # Hey there! I'm <a href = "www.linkedin.com/in/j-suhas-">J Suhas</a>. Welcome to my GitHub👋
 
-Final year CSE student from [The Oxford College of Engineering](http://www.theoxford.edu/).
+2026 CSE graduate from [The Oxford College of Engineering](http://www.theoxford.edu/).
 
 
 - Frontend Development
